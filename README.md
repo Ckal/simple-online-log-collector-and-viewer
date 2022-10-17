@@ -1,6 +1,6 @@
 # logger-demo
 
-A Basic Node.js/Express REST API implementation example for logging.
+A Basic Node.js/Express Log collector and viewer
 
 # Prerequisites
 
